@@ -2,6 +2,7 @@ public class Empleado {
 
     /* Crea una clase Empleado con los atributos nombre, salario y categoria
     , y los métodos get y set correspondientes para cada atributo.*/
+    
     private String nombre;
     private int Salario;
     private String categoria;
